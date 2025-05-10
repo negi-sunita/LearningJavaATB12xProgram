@@ -1,8 +1,6 @@
 package HarryClasses;
 
-import java.util.Locale;
-
-public class Chapter_3_PS_Excercise {
+public class Chapter_3_PS_Exercise {
     public static void main(String[] args) {
         // Problem 1 - convert to lower case
 //        String name = "Sunita Negi";

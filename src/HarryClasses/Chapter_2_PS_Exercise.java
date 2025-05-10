@@ -1,6 +1,6 @@
 package HarryClasses;
-import java.util.Scanner;
-public class Chapter_2_PS_Excercise {
+
+public class Chapter_2_PS_Exercise {
     public static void main(String[] args) {
 
         // Question 1

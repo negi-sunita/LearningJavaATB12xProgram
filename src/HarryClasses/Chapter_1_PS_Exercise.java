@@ -1,7 +1,7 @@
 package HarryClasses;
 import java.util.Scanner;
 
-public class Chapter_1_PS_Excercise {
+public class Chapter_1_PS_Exercise {
     public static void main(String[] args) {
         float totalMarks = 500;
         System.out.println("This program is to calculate % of student's marks");
